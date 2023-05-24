@@ -1,0 +1,9 @@
+
+/* Logo */
+img[alt='Logo']{
+    clip-path: circle();
+}
+/* body */
+body{
+    text-align: center;
+}
