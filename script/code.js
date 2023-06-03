@@ -343,7 +343,7 @@ foot.innerHTML +=
 <div class="container text-center text-md-start">
     <div class="row text-center ">
         <div class="col-12  mt-3">
-            <div class="row text-center">
+            <div class="row text-center align-items-center justify-content-center">
                 <div class="col-md-3 col-lg-4">
                     <h5 class="text-uppercase mb-4 font-weight-bold text-black">Contacts</h5>
                 </div>
