@@ -8,6 +8,9 @@ img[alt='Logo']{
 #home,#about,#education,#skills,#projects,#testimonials,.foot{
     text-align: center;
 }
+button{
+    border-radius:.5rem;
+}
 
 /* Custom variables */
 :root{
