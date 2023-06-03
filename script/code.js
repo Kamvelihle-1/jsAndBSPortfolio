@@ -341,8 +341,8 @@ foot.innerHTML +=
 `
 
 <div class="container text-center text-md-start">
-    <div class="row text-center text-md-start">
-        <div class="col-md-4 col-lg-3 col-xl-3  mt-3">
+    <div class="row text-center ">
+        <div class="col-12  mt-3">
             <h5 class="text-uppercase mb-4 font-weight-bold text-black">Contacts</h5>
             <p>
                 <i class="fas fa-home mr-5 "></i> Cape Town,7784,South Africa
@@ -354,10 +354,7 @@ foot.innerHTML +=
                 <i class="fas fa-phone mr-5 "></i> +27 83 475 7606
             </p>
         </div>
-        <div class="col-md-4 col-lg-6 col-xl-6  mt-5 my-5 align-items-center ">
-            <img src="https://i.postimg.cc/76DmcWxx/K.png" alt="Logo" width="200" height="150" loading="lazy">
-
-        </div>
+       
         
 
     </div>
