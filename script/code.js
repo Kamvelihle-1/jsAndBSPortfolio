@@ -343,16 +343,22 @@ foot.innerHTML +=
 <div class="container text-center text-md-start">
     <div class="row text-center ">
         <div class="col-12  mt-3">
-            <h5 class="text-uppercase mb-4 font-weight-bold text-black">Contacts</h5>
-            <p>
-                <i class="fas fa-home mr-5 "></i> Cape Town,7784,South Africa
-            </p>
-            <p>
-                <i class="fas fa-envelope mr-5 "></i> ksikalana@gmail.com
-            </p>
-            <p>
-                <i class="fas fa-phone mr-5 "></i> +27 83 475 7606
-            </p>
+            <div class="row text-center">
+                <div class="col-md-3 col-lg-4">
+                    <h5 class="text-uppercase mb-4 font-weight-bold text-black">Contacts</h5>
+                </div>
+            </div>
+            <div class="row">
+                <p>
+                    <i class="fas fa-home mr-5 "></i> Cape Town,7784,South Africa
+                </p>
+                <p>
+                    <i class="fas fa-envelope mr-5 "></i> ksikalana@gmail.com
+                </p>
+                <p>
+                    <i class="fas fa-phone mr-5 "></i> +27 83 475 7606
+                </p>
+            </div>
         </div>
        
         
