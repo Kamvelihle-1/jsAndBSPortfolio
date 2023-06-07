@@ -216,10 +216,10 @@ pjs.innerHTML +=
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="https://i.postimg.cc/76DmcWxx/K.png" class="d-block w-100" alt="...">
+                        <img src="https://i.postimg.cc/wBPrcBWk/Screenshot-2023-06-07-115837.png" class="d-block w-100" alt="...">
                         <div class="carousel-caption ">
-                            <h1 class="text-black fw-bold">Animations</h1>
-                            <p>A website I built to showcase different CSS animations</p>
+                            <h1 class="text-black fw-bold">Temperature Convertor</h1>
+                            <p>My first attempt at building a temperature convertor</p>
                             <a target="_blank" class="btn btn-primary site" href="https://enchanting-pika-913a79.netlify.app/" role="button" >Go to site</a>
                             <a target="_blank" class="btn btn-primary site" href="https://github.com/SmasherK/web_page.git" role="button" >Go to Github</a>
                         </div>
