@@ -221,7 +221,7 @@ pjs.innerHTML +=
                             <h1 class="text-black fw-bold">Temperature Convertor</h1>
                             <p>My first attempt at building a temperature convertor</p>
                             <a target="_blank" class="btn btn-primary site" href="https://stately-sorbet-79534f.netlify.app/" role="button" >Go to site</a>
-                            <a target="_blank" class="btn btn-primary site" href="https://github.com/SmasherK/web_page.git" role="button" >Go to Github</a>
+                            <a target="_blank" class="btn btn-primary site" href="https://github.com/SmasherK/jsTempConvetor.git" role="button" >Go to Github</a>
                         </div>
                     </div>
                 </div>
