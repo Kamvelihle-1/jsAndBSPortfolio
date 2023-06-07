@@ -5,6 +5,10 @@ img[alt='Logo']{
     clip-path: circle();
 }
 /* body */
+body{
+    background-image: url("https://i.postimg.cc/fTtFgMhq/Minimal-black-white-ink-splash-iphone-phone-wallpaper-background-lock-screen.jpg")
+    background-repeat: repeat-y;
+}
 #home,#about,#education,#skills,#projects,#testimonials,.foot{
     text-align: center;
 }
