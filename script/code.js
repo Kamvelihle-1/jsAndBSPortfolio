@@ -220,7 +220,7 @@ pjs.innerHTML +=
                         <div class="carousel-caption ">
                             <h1 class="text-black fw-bold">Temperature Convertor</h1>
                             <p>My first attempt at building a temperature convertor</p>
-                            <a target="_blank" class="btn btn-primary site" href="https://enchanting-pika-913a79.netlify.app/" role="button" >Go to site</a>
+                            <a target="_blank" class="btn btn-primary site" href="https://stately-sorbet-79534f.netlify.app/" role="button" >Go to site</a>
                             <a target="_blank" class="btn btn-primary site" href="https://github.com/SmasherK/web_page.git" role="button" >Go to Github</a>
                         </div>
                     </div>
